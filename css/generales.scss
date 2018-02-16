@@ -1,0 +1,21 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	background: url('../img/bg-textura.png') #f2f2f2;
+	background-repeat: repeat;
+}
+.contenedor	{
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+	overflow: hidden;
+}
+.main {
+	background: url('../img/bg-textura.png') #f2f2f2;
+	background-repeat: repeat;
+}

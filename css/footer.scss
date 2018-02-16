@@ -1,0 +1,23 @@
+.main {
+	.ubicacion {
+		.mapa {
+			margin-top: 50px;
+			width: 100%;
+			overflow: hidden;
+			iframe {
+				width: 100%;
+			}
+		}
+	}
+}
+footer {
+	background: #000;
+	.copyright {
+		margin: auto;
+		p {
+			color: #fff;
+			text-align: center;
+			line-height: 20px;
+		}
+	}
+}
